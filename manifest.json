@@ -20,6 +20,7 @@
     "webRequest",
     "webRequestBlocking",
     "*://*.bing.com/*"
+    "*://*.copilot.microsoft.com/*"
   ],
   "background": {
     "scripts": [
